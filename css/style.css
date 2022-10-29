@@ -138,7 +138,6 @@ background-color: var(--background-team);
     letter-spacing: 0.03em;
 }
 .job{
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.18;
     text-align: center;
@@ -219,7 +218,6 @@ background-color: var(--background-team);
     color:#212121;
 }
 .portfolio-item{
-    font-weight: 400;
     font-size: 16px;
     line-height: 1,87;
     letter-spacing: 0.03em;
